@@ -4,6 +4,7 @@ go 1.23.4
 
 require (
 	github.com/kortschak/goroutine v1.1.2
+	github.com/marusama/cyclicbarrier v1.1.0
 	github.com/sasha-s/go-deadlock v0.3.5
 	golang.org/x/exp v0.0.0-20241217172543-b2144cdd0a67
 	golang.org/x/sync v0.10.0
